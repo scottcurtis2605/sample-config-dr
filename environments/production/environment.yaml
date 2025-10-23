@@ -1,5 +1,5 @@
 #
-# Configuration for environment - trigger deployment success test
+# Configuration for environment - trigger deployment success test, re-attempt
 #
 version: 1.0
 app:
