@@ -1,5 +1,5 @@
 #
-# Configuration for environment - trigger deployment success test, re-attempt
+# Configuration for environment - refactor, DR scenario, new production deployment
 #
 version: 1.0
 app:
